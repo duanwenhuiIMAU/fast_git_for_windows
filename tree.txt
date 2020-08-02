@@ -4,7 +4,6 @@ C:\USERS\DUANW\DESKTOP\GIT_BASE
     .gitignore
     CodeAndGit.bat
     README.md
-    runToUp.bat
     tree.ps1
     tree.txt
     

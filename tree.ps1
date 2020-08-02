@@ -34,10 +34,6 @@ if (Test-Path .git){
 }
 else {
     git init 
-    echo "" > tree.txt
-    echo "" > README.md
-    echo "" > .gitignore
-    echo "" > CodeAndGit.bat
     git add tree.txt
     git ci -m  "文件状态初始化"
 }

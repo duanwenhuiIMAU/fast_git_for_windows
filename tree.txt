@@ -1,0 +1,11 @@
+Folder PATH listing for volume Windows
+Volume serial number is 1CEB-7ABE
+C:\USERS\DUANW\DESKTOP\GIT_BASE
+    .gitignore
+    CodeAndGit.bat
+    README.md
+    tree.ps1
+    tree.txt
+    
+No subfolders exist 
+

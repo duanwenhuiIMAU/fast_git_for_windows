@@ -8,6 +8,7 @@ if (Test-Path .git){
     $minsLine = $minsLine -notlike "*@@*"
     $minsLine = $minsLine -notlike "*---*"
     $minsLine = $minsLine -notlike "*diff --git*"
+    $minsLine = $minsLine -notlike "Volume serial number"
     $str = ""
     if ($plusLine.count -ne 0){
         for ($i=0;$i -le $plusLine.count;$i++){
